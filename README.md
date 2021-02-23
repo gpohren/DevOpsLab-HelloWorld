@@ -37,7 +37,7 @@ Instalado o Heroku CLI
 ```bash
 $ curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
 ``` 
-Criando o Heroku-18
+Criado o Heroku-18
 ```bash
 $ heroku create --stack heroku-18
 ``` 
